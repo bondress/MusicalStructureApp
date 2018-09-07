@@ -1,0 +1,71 @@
+<resources>
+    <!-- Title for the application-->
+    <string name="app_name">Musical Structure App</string>
+    <!-- Library (Main Screen) category -->
+    <string name="category_library">Library</string>
+    <!-- Now Playing category -->
+    <string name="category_now_playing">Now Playing</string>
+    <!-- Songs category -->
+    <string name="category_songs">All Songs</string>
+    <!-- Artists category -->
+    <string name="category_artists">Artists</string>
+    <!-- Albums category -->
+    <string name="category_albums">Albums</string>
+    <!-- Genres category -->
+    <string name="category_genres">Genres</string>
+    <!-- Search category -->
+    <string name="category_search">Search</string>
+    <!-- List of Songs -->
+    <string name="song_one">I just need you</string>
+    <string name="song_two">Despacito ft. Daddy Yankee</string>
+    <string name="song_three">My God is Awesome</string>
+    <string name="song_four">In my Veins</string>
+    <string name="song_five">Best Day of my Life</string>
+    <string name="song_six">Radioactive</string>
+    <string name="song_seven">Stars</string>
+    <string name="song_eight">Thunder</string>
+    <string name="song_nine">Hold me ft. TobyMac</string>
+    <string name="song_ten">Power of Love</string>
+    <!-- List of Artists -->
+    <string name="artist_one">TobyMac</string>
+    <string name="artist_two">Luis Fonsi</string>
+    <string name="artist_three">Charles Jenkins</string>
+    <string name="artist_four">Andrew Belle</string>
+    <string name="artist_five">American Authors</string>
+    <string name="artist_six">Imagine Dragons</string>
+    <string name="artist_seven">Skillet</string>
+    <string name="artist_eight">Jamie Grace</string>
+    <string name="artist_nine">Celine Dion</string>
+    <!-- List of Albums -->
+    <string name="album_one">I just need you - Single</string>
+    <string name="album_two">Europa FM</string>
+    <string name="album_three">Kingom Business</string>
+    <string name="album_four">Club der roten Bänder - Staffel 02 (Die Songs aus der TV-Serie)</string>
+    <string name="album_five">Oh, What a Life</string>
+    <string name="album_six">Night Visions</string>
+    <string name="album_seven">Unleashed</string>
+    <string name="album_eight">Evolve</string>
+    <string name="album_nine">One Song at a Time</string>
+    <string name="album_ten">The Colour of my Love</string>
+    <!-- List of Genres -->
+    <string name="genre_one">Christian</string>
+    <string name="genre_two">Latin pop</string>
+    <string name="genre_three">Gospel</string>
+    <string name="genre_four">Alternative</string>
+    <string name="genre_five">Indie</string>
+    <string name="genre_six">Rock</string>
+    <string name="genre_seven">Alt Contemporary Christian</string>
+    <string name="genre_eight">Synth-pop</string>
+    <string name="genre_nine">Pop</string>
+    <!-- Strings depiction one or two songs by an artist or in an Album-->
+    <string name="one_song">1 song</string>
+    <string name="two_songs">2 songs</string>
+    <!-- Image content descriptions -->
+    <string name="play">play or pause</string>
+    <string name="previous">previous</string>
+    <string name="next">next</string>
+    <string name="repeat">repeat</string>
+    <string name="shuffle">shuffle</string>
+    <!-- Now playing display message. Pops up when the user touches play -->
+    <string name="now_playing_message">Nothing to play. Sorry!</string>
+</resources>

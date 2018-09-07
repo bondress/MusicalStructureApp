@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Now Playing theme. -->
+    <style name="nowPlayingTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:gravity">center</item>
+    </style>
+    <!--Now playing songs list-->
+    <style name="nowPlayingSongs">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <!-- Now Playing Text-->
+    <style name="nowPlayingText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <!-- Now Playing Text-->
+    <style name="nowPlayingArtist">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">italic</item>
+    </style>
+    <!-- Various text styles in the Application-->
+    <!-- Library/Main screen TextView-->
+    <!-- Library/Main TextView -->
+    <style name="headerText">
+        <item name="android:textSize">36sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">24dp</item>
+    </style>
+    <!-- Other TextViews on the Main Screen -->
+    <style name="mainText">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:padding">16dp</item>
+    </style>
+    <!-- List item styles -->
+    <!--Songs list item -->
+    <style name="songs">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Action Bar Colour-->
+    <color name="colorPrimary">#673AB7</color>
+    <!-- Status Bar Colour-->
+    <color name="colorPrimaryDark">#482880</color>
+    <!-- Accent Colour-->
+    <color name="colorAccent">#FFC400</color>
+    <!-- Main Background Colour-->
+    <color name="main_background">#BA68C8</color>
+    <!-- Now Playing Background Colour-->
+    <color name="now_playing_background">#F48FB1</color>
+    <!-- Songs Background Colour-->
+    <color name="songs_background">#C5E1A5</color>
+    <!-- Artists Background Colour-->
+    <color name="artists_background">#FF8A65</color>
+    <!-- Albums Background Colour-->
+    <color name="albums_background">#A1887F</color>
+    <!-- Genres Background Colour-->
+    <color name="genres_background">#e57373</color>
+    <!-- Search Background Colour-->
+    <color name="search_background">#B0BEC5</color>
+</resources>
